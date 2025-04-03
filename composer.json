@@ -1,6 +1,7 @@
 {
     "name": "sirlouen/lib-posts-to-posts",
 	"description": "A library for many-to-many relationships in WordPress",
+    "type": "library",
     "homepage": "https://github.com/sirlouen/wp-lib-posts-to-posts",
     "license": "GPL-2.0+",
     "minimum-stability": "dev",
